@@ -1,6 +1,6 @@
 ---
 title: FISH
-thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+thumbnail: "/upload/thumbnails/2.jpeg"
 order: 2
 
 ---
@@ -8,4 +8,4 @@ order: 2
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/2.jpeg)

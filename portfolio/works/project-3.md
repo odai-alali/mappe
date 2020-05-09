@@ -1,6 +1,6 @@
 ---
 title: THIS ONE
-thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
+thumbnail: "/upload/thumbnails/3.png"
 order: 3
 
 ---
@@ -8,4 +8,4 @@ order: 3
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+![](/upload/3.png)

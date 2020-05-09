@@ -8,4 +8,4 @@ order: 3
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/3.png)
+<img :src="$withBase('/upload/3.png')" >

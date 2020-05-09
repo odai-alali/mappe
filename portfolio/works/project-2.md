@@ -8,4 +8,4 @@ order: 2
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/2.jpeg)
+<img :src="$withBase('/upload/2.jpeg')" >

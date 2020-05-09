@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
 
-    <Navbar :logo="$site.themeConfig.logo" :sticky="$route.path === '/'" />
+    <Navbar :logo="$withBase($site.themeConfig.logo)" :sticky="$route.path === '/'" />
 
     <div class="container">
 

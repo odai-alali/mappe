@@ -1,16 +1,13 @@
 {
   "name": "mappe",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "docs:build": "vuepress build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:build": "vuepress build portfolio",
+    "docs:dev": "vuepress dev portfolio"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "vuepress": "^1.4.1"
+  "author": "Mahmoud Tamaa",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.4.0",
+    "webpack-dev-middleware": "3.6.0"
   }
 }

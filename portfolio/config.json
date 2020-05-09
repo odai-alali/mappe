@@ -1,0 +1,21 @@
+{
+    "title": "Mahmoud Tamaa",
+    "description": "Portfolio",
+    "logo": "/upload/logo.svg",
+    "footer": "",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "Works",
+        "link": "/",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Say hi!",
+        "link": "mailto:sayhi@mydomain.com",
+        "position": "right",
+        "external": true
+      }
+    ]
+  }

@@ -2,7 +2,7 @@ const config = require('../config.json');
 module.exports = {
   title: config.title,
   description: config.description,
-  base: "/mappe/",
+  base: "/",
   themeConfig: {
     logo: config.logo,
     footer: config.footer,

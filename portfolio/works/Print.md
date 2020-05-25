@@ -1,7 +1,7 @@
 ---
 title: Print
 thumbnail: "/upload/thumbnails/print.png"
-order: 7
+order: 8
 ---
 # Print
 

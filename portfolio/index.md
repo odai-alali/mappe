@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>Develope</strong> for art."
+hero_text: "<strong>Meine Mappe</strong>"
 title: Home
 
 ---

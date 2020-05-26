@@ -8,7 +8,7 @@ order: 1
 <img :src="$withBase('/upload/controller0.png')" style="  margin-left: auto;
   margin-right: auto;max-width:1024px; display: block;">
 
-<img :src="$withBase('/upload/mixertools.png')" style="  margin-left: auto;
+<img :src="$withBase('/upload/zeugs.png')" style="  margin-left: auto;
   margin-right: auto;max-width:1024px; display: block;">
 
 <img :src="$withBase('/upload/controller2.png')" style="  margin-left: auto;

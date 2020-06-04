@@ -39,7 +39,7 @@
       </router-link>
     </div>
 
-    <nav v-if="navLinks" class="navigation right desktop-nav">
+<!--    <nav v-if="navLinks" class="navigation right desktop-nav">
       <ul>
         <router-link
           v-for="nav in navLinks"
@@ -55,7 +55,7 @@
           <a :href="nav.link" target="_blank">{{ nav.text }}</a>
         </li>
       </ul>
-    </nav>
+    </nav> -->
 
     <div class="mobile-nav-toggle" @click="toggleMobileNav" />
     <div class="mobile-nav" :class="{'mobile-nav--active': mobileNavActive}">

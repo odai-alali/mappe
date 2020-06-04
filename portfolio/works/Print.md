@@ -5,7 +5,7 @@ order: 7
 ---
 # SPRACHLOS
 
-Kartoffeldruck ;) Acryl auf Pappe
+Kartoffeldruck: Acryl auf Pappe
 
 
 

@@ -1,9 +1,12 @@
 ---
-title: Print
+title: Druck SPRACHLOS
 thumbnail: "/upload/thumbnails/print.png"
-order: 8
+order: 7
 ---
-# Print
+# SPRACHLOS
+
+Kartoffeldruck ;) Acryl auf Pappe
+
 
 
 <img :src="$withBase('/upload/print.png')" style="  margin-left: auto;
